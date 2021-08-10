@@ -79,6 +79,11 @@ body {
 #main #text {
     padding-top: 20px;
     font-size: 12px;
+
+}
+
+#main .fil, #main .ceb {
+    text-decoration: none;
 }
 
 footer {
