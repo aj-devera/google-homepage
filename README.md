@@ -13,3 +13,11 @@ Image of App logo was downloaded from https://www.w3schools.com/howto/howto_css_
 
 Other ideas: my codepen.io pens 
 General Reference: https://www.w3schools.com/cssref/
+
+Update (08/11):
+
+
+
+Sites/References Used:
+
+Removed underline from clickable links: https://www.w3schools.com/css/css_link.asp
