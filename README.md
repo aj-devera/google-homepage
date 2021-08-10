@@ -2,3 +2,13 @@
 This is AJ's project of a replica of Google's homepage.
 This project is part of The Odin Project's lists of activities.
  
+Image of App logo was downloaded from https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp as PNG file.
+
+
+ Sites/References Used:
+ Right-align flex: https://stackoverflow.com/questions/22429003/how-to-right-align-flex-item
+
+ Hide/Disable Scrollbars: https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp
+
+Other ideas: my codepen.io pens 
+General Reference: https://www.w3schools.com/cssref/
