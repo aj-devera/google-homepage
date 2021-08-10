@@ -1,6 +1,7 @@
 # google-homepage
 This is AJ's project of a replica of Google's homepage.
 This project is part of The Odin Project's lists of activities.
+The project is not 100% accurate but gives a general sense of the original Google homepage. Some noticeable differences are font style, size, and footer texts are not links. Also, the search element is different. 
  
 Image of App logo was downloaded from https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp as PNG file.
 
