@@ -1,0 +1,121 @@
+#header {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    padding-right: 30px;
+    height: 40px;
+}
+
+#header .for-header {
+    padding-left: 20px;
+}
+
+#header #header-text {
+    font-size: 13px;
+}
+
+#header #apps-logo {
+    position: relative;
+    top: 8px;
+    right: 10px;
+    height: 25px;
+}
+
+#header #sign-in {
+    padding: 8px 25px 8px 25px;
+    position: relative;
+    top: 12px;
+    background-color: #1a73e8;
+    color: white;
+    border-radius: 10px;
+}
+html, body {
+    height: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow:hidden;  
+}
+
+#main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 10em;
+    padding: 10px 0 10px 0;
+}
+
+#google-logo {
+    padding-bottom: 20px;
+}
+
+#search {
+    display: flex;
+    border-radius: 20px;
+    width: 50em;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#buttons {
+    display: flex;
+    border-radius: 10px;   
+}
+
+#search:hover {
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+}
+
+#buttons #submit, #buttons #lucky {
+    margin-right: 30px;
+    padding: 8px 25px 8px 25px;
+    background: ghostwhite;
+}
+
+#main #text {
+    padding-top: 20px;
+    font-size: 12px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background: lightgray;
+    font-size: 13px;
+}  
+
+footer #location {
+    padding: 20px 0 20px 0px;
+    text-indent: 30px;
+    border-bottom-width: 10px;
+    border-color: black;
+}
+#misc {
+    display: flex;
+    flex-direction: row;
+}
+
+#misc .left-side {
+    padding-right: 10px;
+    text-indent: 30px;
+}
+
+#misc .right-side {
+    position: absolute;
+    right: 0;
+    padding-right: 10px;
+}
+
+#misc #terms {
+    padding-right: 6em;
+}
+
+#misc #privacy {
+    padding-right: 10em;
+}
